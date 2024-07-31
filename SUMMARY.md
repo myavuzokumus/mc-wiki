@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Yardım Merkezi](README.md)
-* [Etkinlikler](sunucuda-yapilan-etkinlikler.md)
+* [⚡ Etkinlikler](sunucuda-yapilan-etkinlikler.md)
 * [🩵 Destek Özellikleri](destek-ozellikleri.md)
 * [İçerik Üreticisi & Etkinlik](icerik-ureticisi-and-etkinlik.md)
 * [Oylama](oylama.md)
