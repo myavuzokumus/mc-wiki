@@ -4,7 +4,7 @@
 * [⚡ Etkinlikler](sunucuda-yapilan-etkinlikler.md)
 * [🩵 Destek Özellikleri](destek-ozellikleri.md)
 * [İçerik Üreticisi & Etkinlik](icerik-ureticisi-and-etkinlik.md)
-* [Oylama](oylama.md)
+* [Oy Verme Siteleri](oy-verme-siteleri.md)
 * [📗 S.S.S.](s.s.s..md)
 
 ## 🌐 Oyunlar <a href="#scgames" id="scgames"></a>
