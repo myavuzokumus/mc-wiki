@@ -102,7 +102,7 @@ Banka komutları şu şekildedir:
 
 ## Nasıl uçarım?
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (2).png>)
 
 ## Nether adama ve End'e nasıl giderim?
 

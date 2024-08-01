@@ -1,4 +1,4 @@
-# Etkinlikler
+# ⚡ Etkinlikler
 
 ## Kış etkinliği
 
