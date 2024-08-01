@@ -19,7 +19,7 @@ layout:
 
 # 🩵 Destek Özellikleri
 
-* Her süreli destekte aldığında süresi üstüne eklenir.
+* Her süreli destekte alındığında, mevcut destek süresinin üstüne eklenir.
 * Süreli desteğiniz bittiğinde, hangi sunucuda ne yetkiniz varsa, o yetkiyle devam edersiniz.
 
 ***
@@ -43,17 +43,26 @@ layout:
 | Discord özel rol                             | ✅ | ✅ |
 | SCSkin – Cam görünümü                        | ✅ | ❌ |
 
-| SCGames – Lobi Özellikleri     |      |      |
-| ------------------------------ | ---- | ---- |
-| Hediye kozmetik parası         | 5000 | 2000 |
-| 3 adet SCRiber kozmetik kasası | ✅    | ❌    |
-| Lobide uçma                    | ✅    | ❌    |
+| SCGames – Lobi Özellikleri      |      |      |
+| ------------------------------- | ---- | ---- |
+| Hediye kozmetik parası          | 5000 | 2000 |
+| 3 adet SC-Riber kozmetik kasası | ✅    | ❌    |
+| Lobide uçma                     | ✅    | ❌    |
 
-| SCBlock Özellikleri         |   |   |
-| --------------------------- | - | - |
-| İstediğin SCMarket görünümü | ✅ | ❌ |
-| İstediğin SCMinyon Görünümü | ✅ | ❌ |
-| Zırh askısı düzenleme       | ✅ | ❌ |
-| Tabelaya renkli yazma       | ✅ | ✅ |
+| SCBlock Özellikleri         |              |                       |
+| --------------------------- | :----------: | :-------------------: |
+| İstediğin SCMarket görünümü |       ✅      |           ✅           |
+| İstediğin SCMinyon Görünümü |       ✅      |           ✅           |
+| Zırh askısı düzenleme       |       ✅      |           ❌           |
+| Tabelaya renkli yazma       |       ✅      |           ✅           |
+| Eşya düşürme şans artma     |       ✅      |           ✅           |
+| Sınırsız AFK                |       ✅      |           ✅           |
+| Hediye spawner              |     İnek     |         Domuz         |
+| Oyun içi para               |    50.000    |         25.000        |
+| Kasa Anahtarı               | 2 Son Kasası |           ❌           |
+| Kit                         |       ✅      |           ❌           |
+| Ek SCBonus                  |       ✅      |           ❌           |
+| Hızlı ışınlanma             |       ✅      |           ❌           |
+| Adalarda uçma               |       ✅      | Sadece Skyblock adası |
 
 \
