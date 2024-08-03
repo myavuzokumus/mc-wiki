@@ -44,6 +44,7 @@
 
 * [SC-Riber Store](https://buymeacoffee.com/sc\_riber)
 * [Discord ](https://discord.gg/3vzTKaDHFF)
-* [X](https://x.com/SC\_Riber\_Games)
+* [Youtube](https://www.youtube.com/@SC-Riber)
 * [Instagram](https://www.instagram.com/sc\_riber\_games/)
 * [Tiktok](https://www.tiktok.com/@sc\_riber)
+* [X](https://x.com/SC\_Riber\_Games)

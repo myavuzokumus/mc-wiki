@@ -1,7 +1,7 @@
 ---
 description: Sunucu hakkında detayları öğrenmek için burayı kullanabilirsin.
 cover: .gitbook/assets/Ekran görüntüsü 2022-12-05 114243.png
-coverY: -37
+coverY: -74.98530954879328
 ---
 
 # Yardım Merkezi
